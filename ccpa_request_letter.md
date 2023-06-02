@@ -1,13 +1,13 @@
-[Your Name]
-[Your Address]
-[City, State, ZIP Code]
-[Email Address]
-[Phone Number]
-[Date]
+[Your Name]\
+[Your Address]\
+[City, State, ZIP Code]\
+[Email Address]\
+[Phone Number]\
+[Date]\
 
-[Company Name]
-[Company Address]
-[City, State, ZIP Code]
+[Company Name]\
+[Company Address]\
+[City, State, ZIP Code]\
 
 Subject: Request for Deletion, Access, and Opt-Out of Data Sale
 
